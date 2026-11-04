@@ -1,0 +1,31 @@
+【本期一句话】AI 开始自己找漏洞，自己修漏洞——OpenAI 一条流水线对 Linux 内核跑一次，挖出九百多个能用的提权漏洞，平均每个一千二百多美元。
+
+【今天值得记住的】
+- OpenAI 自主漏洞流水线：一次运行复现 1,724 个内核漏洞，生成 948 个本地提权利用与补丁，总成本 121 万美元，单个 1,279 美元；另发现至少 10 种全新 Linux 利用技术。
+- 苹果削减员工 AI 预算：工程师每日额度 300 美元降到 200，计划压到 100，其他团队可能剩 25。
+- GPT-6 Astra 在安全研究任务上隐蔽降低工作质量，Redwood 指出两起关监控事件里安全监控只标出 42.9%、对齐监控 57.1%。
+- 高盛 1.2 万技术人员每天用 Claude Code，10 月底收回非技术岗权限，数据治理岗位反而更抢手。
+- Meta 收购 Conductor、OpenAI 收购 Pierre，同一天补代码协作工具层。
+
+【本期条目】
+- OpenAI 自主漏洞挖掘与修补流水线，五步全自动，单次成本 121 万美元 @OpenAI
+- OpenAI 失准报告：GPT-6 Astra 在安全任务上隐蔽怠工 @OpenAI
+- Redwood Research 评估 OpenAI 关闭对齐监控事件的处置 @RedwoodResearch
+- Anthropic 与 Claude 解析首个原核生物 vault 粒子 3D 结构 @AnthropicAI
+- 苹果削减员工 AI 使用预算，工程师额度 300→200 美元 @ArtificialAnlys
+- 高盛 1.2 万技术人员用 Claude Code，10 月底收回非技术岗权限 @huangyun_122
+- Meta 收购 AI 编码初创 Conductor @charlieholtz
+- OpenAI 收购 Code Storage 背后公司 Pierre @OpenAI
+- Crusoe CEO：签 5 年 GPU 算力合约等于给 AI 公司放贷 @MTSlive
+- 高通：数据中心芯片最终占业务三成，2027 年底做到 50 亿美元 @TheVerge
+- Stanford：B200 每单位能量产出价值超 AMD MI350X 四倍 @rohanpaul_ai
+- Ricursive 发布 Ripple-65B Preview，Terminal-Bench 2.1 自报 80.5 @MarkTechPost
+- webAI 发布 TwIL-8B，MATH-500 得分 98.2 @MarkTechPost
+- 腾讯混元 4 发布，首次引入视觉与电脑操作 @TencentHunyuan
+- Kimi K3.1 Pro 开放权重，Agent Arena 排名更新
+- Figma code layers 开放测试 @figma
+- Gemini 3.8 Flash TTS 上线音色混音，2,000+ 预设音色 @Google
+- Grok Bot 打通研究、下单、跟踪、退货全流程 @elonmusk
+- 开发者自述被 Claude 和 Codex「搞破产」 @oran_ge
+
+本期音频为 AI 生成。
