@@ -1,0 +1,31 @@
+【本期一句话】钱在撤，能力在加速——纳斯达克收出十九个月来最深的单日阴线，同一天 METR 说模型进步速度翻了一倍。
+
+【今天值得记住的】
+- 纳指收出 19 个月里最深单日跌幅，盘中一度跌到 6% 附近；芯片股跌幅更大：高通 12%、AMD 11%、美光 7%、英伟达 4%。
+- 反数据中心浪潮成了 AI 的政治新变量：一批主张禁止或放缓数据中心开发的候选人拿到选民支持。
+- Anthropic 本月下旬拟在纳斯达克挂牌，上一轮估值 9650 亿，市场预估这次超 1.5 万亿，募资规模可能超过 SpaceX。
+- METR 独立评估：截至 10 月，Anthropic 模型在目标明确的任务上进步速度约翻一倍，相当部分归因于 AI 参与研发 AI。
+- OpenAI 把昨天流水线背后的模型正式发布，命名 GPT-6 Cyber，配套 Daybreak Blue 向各类组织、独立研究者与开源维护者开放。
+
+【本期条目】
+- OpenAI 发布 GPT-6 Cyber，Daybreak 扩大访问 @OpenAI
+- ChatGPT Images 2.6 上线，支持 GIF 与参考图，API 新增两个模型 @OpenAI
+- Anthropic 在 Claude 上线 Personal Finance 美国测试版 @claudeai
+- Anthropic 官方 Cookbook：每天凌晨让 Agent 整理长期记忆，0.36 美元一次 @tvytlx
+- 纳指 19 个月最深单日跌幅，芯片股成片下挫 @ReutersBiz
+- 反数据中心浪潮成 AI 政治新变量 @ChineseWSJ
+- Anthropic IPO 市场预估估值超 1.5 万亿美元 @tychozzz
+- METR 独立评估：Anthropic 能力进步速度约翻一倍 @dotey
+- 约 60 万块 H200 积压香港等进口审批 @Reuters
+- 中国限制钻头用钨出口，冲击 AI 供应链 @WorldInMotionHQ
+- Anthropic 一天四人流向 OpenAI，Cat Wu 带 Core Products 产品管理 @_catwu
+- Gemini Omni 1.2 Flash 发布，视频生成更快更便宜 @Google
+- GitHub Copilot Fusion 自动路由模型 @github
+- Replica 开源，大白话生成可交互原型 @geekbb
+- Reducto r-1 mini：一千页一美元 @vivistac
+- Block 训出纯语音语音模型 @jack
+- Claude Code 后台子任务成本降 99% @Voxyz_ai
+- Robinhood CEO：两年内所有代码都会被形式化验证 @Cointelegraph
+- TikTok 推荐逻辑逆向：移动端 25+ 个 AI 模型参与留存判断 @vista8
+
+本期音频为 AI 生成。
