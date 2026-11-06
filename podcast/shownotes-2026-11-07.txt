@@ -1,0 +1,22 @@
+【本期一句话】AI 的融资成本第一次被明确标出来——Anthropic 的 IPO 被投资人往下压价，CoreWeave 的债券要付超过 16% 才借得到钱。
+
+【今天值得记住的】
+- Anthropic IPO 一天出现三个价格：路透说投资人怀疑能否按计划推进，FT 说公司仍将推进、目标仍是 1.5 万亿，华尔街日报采访到的投资者说更接近 1 万亿。
+- CoreWeave 债券收益率突破 16%。信用好的大公司发债利息约 5%，高收益债约 8–9%。
+- 至少 38 个选区的选民批准了禁止或放缓数据中心开发的提案；另一份汇总是 41 票、2.5 万亿美元、72 小时。
+- OpenAI 与行业组织合作发布框架，判断「绕过 AI 安全护栏」在什么条件下会造成严重网络伤害；同时发布 BioBasicsBench，测 agent 做湿实验室常规分析的能力。
+- Anthropic 5 月每天合并约 2500 次代码变更，9 月超过 3 万次，人从读代码改成看 AI 交的证据。
+
+【本期条目】
+- Anthropic IPO 估值遭投资者质疑，1.5 万亿 vs 1 万亿 @ReutersBiz @FT @ChineseWSJ
+- CoreWeave 债券收益率突破 16%，AI 的借债成本变贵 @CNBC
+- 微软据报停止从甲骨文租 AI 算力，甲骨文称需求仍强 @YahooFinance
+- 至少 38 个选区投票禁止或放缓数据中心 @TheFP
+- OpenAI 发布识别绕过安全护栏的框架 @OpenAI
+- OpenAI BioBasicsBench：测 Agent 做湿实验室常规分析 @OpenAI
+- Claude Code 云端会话自动判断依赖、网络与密钥 @ClaudeDevs
+- Agents Anywhere：跨设备管理所有 Agent 的工作台 @WangBenson6541
+- Thinking Machines 接近 50 亿美元融资，估值 400 亿 @StockMKTNewz
+- Anthropic 一天合并三万次代码变更，人只看证据 @dotey
+
+本期音频为 AI 生成。
