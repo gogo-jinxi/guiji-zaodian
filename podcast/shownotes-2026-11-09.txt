@@ -1,0 +1,24 @@
+【本期一句话】昨天数据中心被 38 个选区的选民否掉，今天 Anthropic 换了个办法——不去申请用电，直接花 34 亿美元买下 1.7 吉瓦的燃气发电机组。
+
+【今天值得记住的】
+- 金融时报：Anthropic 达成 34 亿美元交易，为 AI 数据中心锁定 1.7 吉瓦燃气发电机组，量级约两座大型燃气电站。
+- 彭博：美国中期选举后 AI 交易解体，迫使投资者重思亚洲配置，对中国和印度股票的需求重新升温。
+- 彭博：Anthropic 下周开始路演，买家讨论的估值降到 1.2 万亿至 1.3 万亿美元，个别人只考虑 1.1 万亿；原目标 1.5 万亿。
+- Grok Bot 连续跑 30 天，查出一个人：银行卡存在 64 家商店账户、照片在陌生人约会资料上、23 个不记得注册过的账户。
+- Vercel 开源 agent-desktop（Apache-2.0，1.8 万星），让 Claude Code、Codex 直接操作电脑上的 App。
+- Anthropic 统计 20.7 万次科研会话：用得最多的是分析数据和写论文，科学家认为最有价值的「提想法」用得最少。
+- 姚顺雨：护城河在产品层不在模型层，第一是数据和上下文。
+- Addy Osmani：coding agent 已经把你变成管理者，管理 agent 的技能就是管理团队的技能。
+
+【本期条目】
+- Anthropic 花 34 亿美元买 1.7 吉瓦燃气发电 @Cointelegraph @FT
+- AI 交易崩了，钱转向中国和印度股市 @business
+- Anthropic 路演估值降到 1.2–1.3 万亿 @dotey @Bloomberg
+- Grok Bot 当 30 天私人安全队 @nexor404
+- Vercel 开源 agent-desktop @Pluvio9yte
+- GPT-6.2 Sol 开始灰度，传下周四发布 @Khazix0918
+- 20.7 万次科研会话报告：提想法用得最少 @dotey
+- 姚顺雨：护城河在产品层与数据上下文 @dotey
+- Addy Osmani：你的 coding agent 让你成了管理者 @addyosmani
+
+本期音频为 AI 生成。
