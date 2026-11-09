@@ -1,0 +1,24 @@
+【本期一句话】Anthropic 今天放出两个新模型，速度提了三成、价格降了两成；同一天，Claude Code 一个默认设置，让 1379 条真实凭据躺在了公开的 GitHub 上。
+
+【今天值得记住的】
+- Claude Fable 5.2 与 Mythos 5.2 同日上线，Fable 5.2 快最多 30%，价格从 $10/$50 降到 $8/$40 每百万 token；工程师称其在超长任务上超过 Opus。
+- Claude Code 的「Yes, and don't ask again」按钮酿成泄漏：Apiiro 扫 104,185 份公开配置，1,122 份含敏感信息，共 1,379 条密码/API Key，部分涉及数据库、SSH、AWS。
+- 昨天那笔 34 亿美元发电交易的细节补上了：1.7 吉瓦卡特彼勒重型机组，9 月底从 OnePWR Solutions 接收，是已知 AI 实验室最大一笔电力设备采购。
+- CoreWeave 债务 298 亿美元、现金 39.5 亿，债务是现金的 7.5 倍。
+- 美国六大科技公司上季度四家自由现金流为负，只有苹果和微软为正。
+- OpenAI 发布 Control Room，跨研究基础设施追踪模型工作负载，出问题可立即停掉。
+- Google 两个新 TPU 变体主打机密计算，为 agent 数据做硬件级隔离。
+- Replit 创始人：一个报价 1000 万美元的评估项目，客户在他这儿 25 万美元做完。
+
+【本期条目】
+- Claude Fable 5.2 / Mythos 5.2 上线 @AnthropicAI @ClaudeDevs
+- Claude Code「不再询问」导致 1379 条凭据泄漏 @Smartpigai
+- 34 亿美元发电机组供货方浮出：OnePWR Solutions、卡特彼勒 @bboczeng
+- CoreWeave 298 亿美元债务 vs 39.5 亿现金 @GoKiteAI
+- 六大科技公司四家自由现金流为负 @Hedgeye
+- OpenAI Control Room 上线 @OpenAI
+- Google 两个新 TPU 变体主打机密计算 @YahooFinance
+- Replit：1000 万美元评估项目 25 万美元做完 @berryxia
+- 员工抵制 AI 时加压会适得其反 @HarvardBiz
+
+本期音频为 AI 生成。
