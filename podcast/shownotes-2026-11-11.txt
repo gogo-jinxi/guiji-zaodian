@@ -1,26 +1,34 @@
-【本期一句话】Anthropic 启动 IPO 路演，定价区间 70 到 78 美元，对应约 1.4 万亿估值，11 月 19 日以 ANT 代码在纳斯达克交易；同一天 CoreWeave 交出三季度财报，收入 36.6 亿美元，单个季度的利息账单接近 10 亿。
+【本期一句话】Anthropic 一边用 1.4 万亿估值启动 IPO 路演（定价 70–78 美元、11 月 19 日以 ANT 挂牌），一边从明天起执行最严地区封禁；同一天 Claude 上线白板、表格、数据三件套。
 
 【今天值得记住的】
-- Anthropic 启动 IPO 路演：发行价区间每股 70–78 美元，估值约 1.4 万亿美元；11 月 18 日定价、11 月 19 日在纳斯达克全球精选市场以 ANT 挂牌；高盛与摩根士丹利牵头，另有 20 家银行承销。
-- 此前彭博口径是估值降到 1.2–1.3 万亿、最低有人给 1.1 万亿；今天公布的区间对应 1.4 万亿，比传出的最低价高出不少。
-- FT：承销商预测 Anthropic 2030 年收入超 6000 亿美元，是去年销售额的 130 多倍——1.4 万亿估值就是照这条曲线倒推的。
-- CoreWeave 三季度收入 36.6 亿美元，单季利息账单接近 10 亿美元，利息占收入四分之一以上。
-- OpenAI 三季度增速首次与 Anthropic 持平，「Anthropic 涨得更快」这条对比被拉平。
-- OpenAI 开放 Businesses in ChatGPT 测试版：商家可认领 business、维护信息、看互动洞察，并可发布 Business Agent 替自己接待客户。
-- Google 用 Gemini 4 Carbon + AlphaProof Code 数学证明了 Signal 协议底层代码；同日 Gemini 4 Carbon 在 GitHub Copilot 全面可用。
-- Meta 发布 Muse Ember：单价与 Claude Haiku 5.5 相同，跑同一套测试只花三分之一钱，专干 agent 的杂活。
-- SOXL 上周流入 51 亿美元（历史第二大周流入），同期跌 40%；四周合计 134 亿美元。
+- Anthropic 启动 IPO 路演：发行价每股 70–78 美元，对应约 1.4 万亿估值；11 月 18 日定价、11 月 19 日在纳斯达克全球精选市场以 ANT 交易；高盛与摩根士丹利牵头，另有 20 家银行承销。
+- 口径要分清：AIHOT 汇总的「估值预期 1.25–1.75 万亿」是市场区间估计，1.4 万亿是按发行价倒推，两者不是同一算法。
+- 定价的依据：FT 称承销商预测 Anthropic 2030 年收入超 6000 亿美元，是去年销售额的 130 多倍。
+- 11 月 12 日起最严地区规则：所在地封禁（美国人在中国境内也禁用）+ 主体封禁（人在美国但受雇于中国公司也禁用）。社区整理口径，未见官方豁免说明。
+- 同一份 100 万美元股票授予，入职时间不同差 52 倍：2023 年入职值 7800 万，2026 年初入职值 340 万（Levels.fyi 按各轮股价测算）。
+- CoreWeave 三季度收入 36.6 亿美元，单季利息接近 10 亿，利息占收入四分之一以上。
+- Claude 上线白板（Whiteboards）、表格（Sheets）、数据（Data 正式版）三件套，所有付费套餐可用；同期扩展 MCP Apps，完整应用可直接跑在 Claude 里。
+- Cursor Projects 重构为多人协作：团队成员与各自智能体同一工作区，智能体共享计划、标记冲突、跨团队解锁任务。
+- OpenAI 开放 Businesses in ChatGPT 测试版：认领主页、看互动洞察、发布 Business Agent 接待客户。
+- 英伟达 GR00T 2：用 40 万小时人类头戴视频 + 1 万小时手持夹爪演示预训练，遥操作数据只要 2.3 万小时，绕开最贵的数据采集。
+- Gemini 4 Carbon 正式开放，Perplexity 同步上线；Every 的 Vibe Check 评测：编码更强、能连续工作数小时，但「判断力跟不上，不知道什么时候该停」。
+- Grok Bot 在 40 个黑客论坛、11 个泄露库里找到本人邮箱与密码，6 分钟内改完全部密码。
+- agent 常驻 24 小时的磁盘写入量，按实测 1T SSD 预估寿命只有一年多。
+- SOXL 单周流入 51 亿美元（历史第二大周流入），同期跌 40%，四周合计 134 亿。
 
 【本期条目】
 - Anthropic 启动路演，定价 70–78 美元 @AnthropicAI @YahooFinance @Forbes
-- 承销商预测 2030 年收入超 6000 亿美元 @FT
-- CoreWeave Q3：收入 36.6 亿，利息近 10 亿 @StockSavvyShay
-- OpenAI Q3 增速首次持平 Anthropic @YahooFinance
-- OpenAI Businesses in ChatGPT 测试版 @OpenAI
-- Google 数学证明 Signal 协议代码 @sundarpichai @github
-- Meta Muse Ember 发布 @dotey
-- Fable 5.2 首批实测：浏览器可跑 FPS @ChengYi3629 @gregisenberg
-- Anthropic 发布模型选择指南 @Voxyz_ai
+- 11-12 起最严地区规则 @luojiuyue
+- 同一份股票授予入职差 52 倍 @FinanceYF5
+- CoreWeave Q3 收入 36.6 亿、利息近 10 亿 @StockSavvyShay
+- Lenny 科技就业报告：PM 最多、工程师停滞、设计新低 @dotey
+- Claude 白板/表格/数据三件套 @claudeai @dotey
+- Cursor Projects 多人协作 @cursor_ai
+- OpenAI Businesses in ChatGPT 测试版 @OpenAI @gregisenberg
+- 英伟达 GR00T 2 @rohanpaul_ai
+- Gemini 4 Carbon 开放 + Vibe Check 反调
+- Grok Bot 6 分钟改完泄露密码 @KrisShan1
+- 1T SSD 寿命一年多 @bylixing
 - SOXL 单周流入 51 亿美元 @AsiaFinance
 
 本期音频为 AI 生成。
