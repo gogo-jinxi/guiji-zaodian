@@ -1,0 +1,26 @@
+【本期一句话】Anthropic 启动 IPO 路演，定价区间 70 到 78 美元，对应约 1.4 万亿估值，11 月 19 日以 ANT 代码在纳斯达克交易；同一天 CoreWeave 交出三季度财报，收入 36.6 亿美元，单个季度的利息账单接近 10 亿。
+
+【今天值得记住的】
+- Anthropic 启动 IPO 路演：发行价区间每股 70–78 美元，估值约 1.4 万亿美元；11 月 18 日定价、11 月 19 日在纳斯达克全球精选市场以 ANT 挂牌；高盛与摩根士丹利牵头，另有 20 家银行承销。
+- 此前彭博口径是估值降到 1.2–1.3 万亿、最低有人给 1.1 万亿；今天公布的区间对应 1.4 万亿，比传出的最低价高出不少。
+- FT：承销商预测 Anthropic 2030 年收入超 6000 亿美元，是去年销售额的 130 多倍——1.4 万亿估值就是照这条曲线倒推的。
+- CoreWeave 三季度收入 36.6 亿美元，单季利息账单接近 10 亿美元，利息占收入四分之一以上。
+- OpenAI 三季度增速首次与 Anthropic 持平，「Anthropic 涨得更快」这条对比被拉平。
+- OpenAI 开放 Businesses in ChatGPT 测试版：商家可认领 business、维护信息、看互动洞察，并可发布 Business Agent 替自己接待客户。
+- Google 用 Gemini 4 Carbon + AlphaProof Code 数学证明了 Signal 协议底层代码；同日 Gemini 4 Carbon 在 GitHub Copilot 全面可用。
+- Meta 发布 Muse Ember：单价与 Claude Haiku 5.5 相同，跑同一套测试只花三分之一钱，专干 agent 的杂活。
+- SOXL 上周流入 51 亿美元（历史第二大周流入），同期跌 40%；四周合计 134 亿美元。
+
+【本期条目】
+- Anthropic 启动路演，定价 70–78 美元 @AnthropicAI @YahooFinance @Forbes
+- 承销商预测 2030 年收入超 6000 亿美元 @FT
+- CoreWeave Q3：收入 36.6 亿，利息近 10 亿 @StockSavvyShay
+- OpenAI Q3 增速首次持平 Anthropic @YahooFinance
+- OpenAI Businesses in ChatGPT 测试版 @OpenAI
+- Google 数学证明 Signal 协议代码 @sundarpichai @github
+- Meta Muse Ember 发布 @dotey
+- Fable 5.2 首批实测：浏览器可跑 FPS @ChengYi3629 @gregisenberg
+- Anthropic 发布模型选择指南 @Voxyz_ai
+- SOXL 单周流入 51 亿美元 @AsiaFinance
+
+本期音频为 AI 生成。
