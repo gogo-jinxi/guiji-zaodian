@@ -1,0 +1,23 @@
+【本期一句话】
+英伟达的创始人被董事会请走，同一天 Claude 被请进了会议室。
+
+【今天值得记住的】
+- 黄仁勋辞任英伟达 CEO，任期 33 年，CFO Colette Kress 临时接任，盘前跌 10.57%
+- Claude Meetings 进入 Google Meet：会中写文档画白板，会后出纪要、行动项和逐字稿
+- vLLM 在 Vera Rubin NVL72 上跑出 GB300 的 58 倍吞吐，这是换帅当天出的数字
+- Anthropic IPO 11 月 18 日定价，年付 10 万美元以上客户一年增 12 倍到 11,900 家
+- Gemini 4 Hydrogen 接替 3.8 Flash，成为搜索 AI Mode 默认模型
+
+【本期条目】
+1. 英伟达创始人辞任 CEO：33 年任期结束，CFO 临时接任，盘前跌一成（@nvidianewsroom、@dotey）
+2. Claude 走进会议室：加进 Google Meet，会中协作、会后出纪要（@claudeai、@dotey）
+3. Anthropic IPO 定价 11 月 18 日，代码 ANT；十万美金年付客户达 11,900 家（@GregIsenberg、@toly）
+4. 谷歌发 Gemini 4 Hydrogen，接替 3.8 Flash 成 AI Mode 默认模型（@dotey、The Verge）
+5. Claude Managed Agents 开自托管私测，企业可把 agent 放进自己机房（@ClaudeDevs）
+6. CopilotKit 开源 OpenBot 1.0：每个 bot 独立容器，动作过策略网关留审计（MarkTechPost）
+7. 微软 Outlook、Teams、365、Copilot 大范围故障数小时（status.cloud.microsoft）
+8. vLLM 在 Vera Rubin NVL72 上 58 倍于 GB300，单用户 387 token/s（vLLM 官方博客）
+9. 四个创始人被董事会请走的先例：雅达利、苹果、Uber、OpenAI（@rohanpaul_ai）
+10. KYC 的护照矛盾：受限地区为什么还能过核验（@PrismChemAI）
+
+本期音频为 AI 生成
