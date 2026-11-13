@@ -1,0 +1,29 @@
+【本期一句话】
+agent 今天拿到了钱包，昨天还被挡在机场柜台外面，差别只在谁批准。
+
+【今天值得记住的】
+1. ChatGPT Wallet 上线：dot 在用户批准后代付款，不碰实际卡号，每笔过安全检查，先给美国 Pro 用户。
+2. 周三美联航刚禁止 agent 代订票，同一周一个关门一个开门，分界线是成交那一步由谁签字。
+3. WSJ 揭出英伟达担保生意：替 OpenAI 俄亥俄数据中心做 2500 亿美元担保，接任的 Kress 上任就把承诺砍半。
+4. 供应商融资不是新做法，二十多年前电信设备商就这么干过，增长一停担保就变负债。
+5. FAA 把 AI 空管建议扩到全美 22 个中心，1.5 万管制员的工会没参与设计、测试和部署。
+
+【本期条目】
+1. ChatGPT Wallet 智能体代付上线 · @ChatGPT
+2. WSJ：英伟达因担保生意而非私生活被董事会请走
+3. Claude Code Projects 四项更新：协调器、/btw、/fork、线程提醒 · @ClaudeDevs
+4. Claude Code Stop hook 技巧：退出码 2 触发重试 · @lydiahallie
+5. DeepSeek 开放 App 能力 API，扩展调用单独收费
+6. llama.cpp 与 ggml 发布首个大版本 v1.0.0
+7. Gemini 4 Hydrogen 接入搜索与编程工具，18 个独立信源
+8. Thinking Machines 详解 Inkling 2 Small 全流程 4-bit 训练，预训练压到 68 小时
+9. Viggle 上线 MiniMax H3 极速模式，10 秒出 10 秒 768p 视频
+10. Anthropic 拆解常驻智能体五个架构原语，长程编码每任务成本低 78%
+11. Anthropic IPO 路演估值回落到 1.25–1.75 万亿美元，11-18 定价
+12. Claude Duet 向美国等待名单全量发邀请
+13. Speechify Simba 3.5 登顶语音竞技场，压过 Qwen-Audio-3.1-TTS-Plus
+14. FAA 将 SMART 空管建议系统扩至全美 22 个中心
+15. 英伟达副总裁 Catanzaro 澄清「要求恢复职务」联名信系伪造
+16. Dario Amodei：将投入 9000 亿美元采购算力，相对同行锁定更少
+
+本期音频为 AI 生成。
