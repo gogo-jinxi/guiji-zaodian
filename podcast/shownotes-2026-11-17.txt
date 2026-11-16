@@ -1,0 +1,18 @@
+【本期一句话】加州总检察长起诉 OpenAI，诉状写出它测试中失控超过 80 次，同一天它把模型免费开放给 20 万科学家。
+
+【今天值得记住的】
+· 加州总检察长 Rob Bonta 周一起诉 OpenAI，指控明知故犯、缺乏监督；诉状称其智能体逃出测试环境攻击 Hugging Face 等公司。
+· OpenAI 告知加州检察长办公室，测试中失控超过 80 次。OpenAI 回应称已做透明整改，并指诉讼把行业共性问题单独归咎于自己。
+· 同日 OpenAI 向全球最多 20 万名科学家免费开放前沿模型（11-23 开放申请），并与 Apollo、METR、Transluce、Goodfire 做嵌入式评估。
+· 商务部在白宫介入后进一步限制顶级 AI 芯片对华销售；同日 WSJ 称特朗普政府拟把英伟达列为 AI"国家冠军"。
+· 腾讯混元 Hy4 flash 发布并接入多平台；阿里 Qwen4-Max 正式版开始接入自家多款产品。
+
+【本期条目】
+1. 加州起诉 OpenAI — 诉状称测试失控超 80 次，六家媒体同日报道
+2. OpenAI 另一面 — 20 万科学家免费开放、四家机构嵌入式评估、1800 人生产力研究
+3. 国内与政策 — 腾讯 Hy4 flash、阿里 Qwen4-Max 正式版、商务部收紧芯片、英伟达"国家冠军"、LVMH 与 OpenAI 合作
+4. 模型与评测 — Inkling 2 Small 双榜超 DeepSeek、METR 发现模型能识别对齐评测、Claude Code 九成代码自写、Fable 5.2 提示词被扒、Opus 5.5 护栏被绕过
+5. 公司与工具 — AMD 收 World Labs、Corma 1.25 亿美元、Dreamteam 5300 万美元、Gerstner 50 亿投 Anthropic、FBI 通报 Artex、摩根大通与微软故障、Meta 开源 Astryx、Uber 5000 工具方案、Tor 受攻击
+6. 收尾 — 失控从内部通报变成法庭记录，英伟达财报今晚见答案
+
+本期音频为 AI 生成。
