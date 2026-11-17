@@ -595,3 +595,32 @@
 - 2026-11-18 | 中国模型每 10 万次查询 ping 华为服务器 1 次 | 排除 | 涉指控性内容，未核实
 - 2026-11-18 | Latent Space：Stanford 如何教 AI 原生工程 | 备选 | 字幕 15.9 万字，本期篇幅所限未入
 - 2026-11-18 | 阿里 open-code-review 3,056 星 | 备选 | GitHub Trending，未入正文
+
+## 2026-11-18
+- 2026-11-18 | OpenAI 发布 GPT-6.2 Astra 与 Sol | 产品 | Astra 旗舰、Sol 日常；单任务成本降到上代三分之一内；Astra API 降价两成；ExploitBench 内网项高 22 分；HN 1005 分
+- 2026-11-18 | GPT-6.2 口碑劈叉 | 观点 | 卡兹克：极致省钱但偏科严重；宝玉调侃差评来源；Riley Brown 继续用 Opus 5.5；AA 智能指数第二仍低于 Fable 5.2
+- 2026-11-18 | Perplexity 接入 GPT-6.2 并公布 WANDR 基准 | 产品 | Astra 0.783、单任务约 12.54 美元
+- 2026-11-18 | 英伟达 Q3 营收 1160 亿超预期 | 商业 | 预期 1090 亿、同比翻倍+；Kress 电话会未提黄仁勋离职
+- 2026-11-18 | 英伟达董事会排除黄仁勋回归 | 治理 | ABC/CNN：不打算恢复其 CEO 职务；BBC：黄称愿意回来；NBC：黄同意到众议院作证对华芯片销售
+- 2026-11-18 | FT：英伟达停止单独披露新加坡销售额 | 商业 | 新加坡为此前芯片流向争议中心
+- 2026-11-18 | Anthropic 定价或超区间 | 商业 | CNBC 多信源：或超 70–78 美元；彭博：指引高端或以上、市值或达 1.4 万亿；O'Leary 称史上最受追捧 IPO；Burry 唱反调不持股；11-19 以 ANT 挂牌；10-27「压区间中下段」判断大概率被打脸
+- 2026-11-18 | PyPI 投毒：微软 agent-framework 恶意版本 | 安全 | 1.26.1/1.26.2 藏 .pth 偷 Azure 凭据与 CI 令牌回传 webhook.site；11-17 21:30 UTC 下架（Wiz）
+- 2026-11-18 | 微软 Ignite 发七款 MAI 模型 | 产品 | MAI Code 2 约 96% Opus 5.5 性能、价格 5%；MAI Cyber 2 Flash 成本约 GPT-6 Astra 的 2%；首款语音模型 1 美分/分钟；Licensed Weights 可控权重
+- 2026-11-18 | Copilot Fusion Max 登顶 Terminal-Bench 4.1 | 技术 | 71.2% 解决率，比 Opus 5.5/Fable 5.2 高 5.4pp，成本低 88%
+- 2026-11-18 | Gemini 4 Hydrogen 全球接入谷歌搜索 | 产品 | 官方称搜索迄今最大模型升级
+- 2026-11-18 | Hassabis 新公司融资 50 亿美元 | 商业 | 离开 Google DeepMind 数月后
+- 2026-11-18 | OpenAI 与北约合作护盟国网络 | 政策 | 同日上线 ChatGPT for Sales（30+ 插件）；医疗版加 20+ 插件
+- 2026-11-18 | Coinbase 推出 ChatGPT 插件 | 产品 | 管股票与加密组合，每笔订单亲手批准
+- 2026-11-18 | Claude 平台 Linked billing 公测 | 产品 | Factory/Linear/Ramp 等工具内用量走组织账户
+- 2026-11-18 | NSA 机密内网宕机 | 事故 | 官方称技术故障非攻击；六天内第六起大故障（含苹果服务、微软 365、摩根大通）
+- 2026-11-18 | Waymo 撤出全美高速 | 行业 | 加州上周禁其上高速后主动下线
+- 2026-11-18 | Java4Shell（CVE-2026-114938） | 安全 | OpenJDK RCE，CVSS 9.2；可远程利用 Jenkins/Confluence/Tomcat
+- 2026-11-18 | Simon Willison 外部沙箱方案 | 技术 | agent 留本机、代码进隔离环境；WebAssembly/QEMU/苹果容器三套实现
+- 2026-11-18 | Claude Code 2.1.326 | 产品 | 367 项改动，危险操作加确认
+- 2026-11-18 | SGLang：约 95% 合并 PR 由 agent 写 | 技术 | 峰会披露
+- 2026-11-18 | Lauren Tan：垃圾内环自动化只会产更多垃圾 | 观点 | AI Engineer CODE Summit
+- 2026-11-18 | jasmine sun 加入纽约时报评论版 | 人的事 | 开新 AI 栏目
+- 2026-11-18 | Instagram 测试内容保护 | 产品 | 抓 AI 偷段子与照搬视频
+- 2026-11-18 | 谷歌 modern-web-guidance 仓库热榜第一 | 技术 | 让 coding agent 跟上最新 Web 实践，一周 6542 星
+- 2026-11-18 | 深挖：旗舰模型价格踩踏日（A 串联） | 判断 | 四家头部 48 小时主打便宜；判断：两周内 Anthropic 或谷歌出旗舰 API 价格动作
+- 2026-11-18 | 开放问题：模型便宜了账单会降吗 | 开放问题 | 我的答案：不会，token 总量吃掉折扣

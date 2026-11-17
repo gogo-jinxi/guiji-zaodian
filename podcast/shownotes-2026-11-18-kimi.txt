@@ -1,0 +1,24 @@
+【本期一句话】OpenAI 官宣 GPT-6.2 两款模型、卖点是省钱；英伟达营收同比翻倍，董事会却在同一天表态不打算请黄仁勋回来；Anthropic 今晚定价，传言高出区间上限。
+
+【今天值得记住的】
+- GPT-6.2 Astra 旗舰 + Sol 日常主力今天上线：单任务成本降到上代三分之一以内，Astra API 降价两成；口碑劈叉，Artificial Analysis 智能指数仍排在 Claude Fable 5.2 之后。
+- 英伟达季度营收 1160 亿美元、超预期翻倍；董事会明确「不打算恢复黄仁勋 CEO 职务」，黄本人说愿意回来，并同意到众议院作证芯片销售。
+- Anthropic 今晚定价，CNBC 多信源称可能超出 70–78 美元区间；Michael Burry 唱反调，说它在押上全部存在。
+- 微软开源框架 agent-framework 在 PyPI 被投毒：恶意版本偷 Azure 凭据和 CI 令牌，上传不到一天就下架。
+- 价格踩踏日：OpenAI 降价两成、微软七款 MAI 打性价比、Copilot 便宜 88%、Qwen4-Max 砍六成——判断：两周内 Anthropic 或谷歌会对旗舰 API 出价格动作。
+
+【本期条目】
+- 昨日回访：GPT-6.2 传闻九天落地，Astra 与 Sol 双发
+- GPT-6.2 发布与争议：省钱是真省，口碑没赢
+- 英伟达财报：1160 亿营收换不回 CEO 回归
+- Anthropic 今晚定价：多头押超区间，Burry 说它在赌命
+- PyPI 投毒：顶着微软名字的包在偷云凭据
+- 发布潮：Copilot Fusion Max 登顶 Terminal-Bench、微软七款 MAI、Gemini 4 Hydrogen 进搜索
+- 钱和生意：Hassabis 融 50 亿、OpenAI×北约与销售版、Coinbase 插件、Claude 关联账单
+- 故障与边界：NSA 内网宕机、Waymo 撤出高速、Java4Shell 9.2 分漏洞
+- 工具贴士：外部沙箱三套实现、Claude Code 危险操作确认、谷歌 Web 指南热榜第一
+- 工作方式旁证：SGLang 九成五 PR 由 agent 写、Grok Bot 打 90 分钟电话、Instagram 抓偷段子
+- 深挖：价格踩踏日——四家头部 48 小时全把更便宜当主卖点
+- 开放问题：模型便宜了，你的账单会降吗？
+
+本期音频为 AI 生成。
