@@ -1,0 +1,19 @@
+【本期一句话】OpenAI 放出两款新模型并把接口降价两成，同一天 Google 把新模型推上全球搜索，英伟达交出翻倍的季报。
+
+【今天值得记住的】
+· OpenAI 发布 GPT-6.2 Astra 和 Sol：Astra 每任务成本不到前代三分之一、接口降价 20%，网安测试比上一代高 22 分，因能力涨幅太大改为按批放开。
+· 第三方成绩：Artificial Analysis 智能指数 Astra 排第二，仅次于 Claude Fable 5.2；Perplexity 自建基准 Astra 0.783 / 每任务 12.5 美元，Sol 0.746 / 2.6 美元。
+· Google 宣布 Gemini 4 Hydrogen 全球上线 Search，官方称是搜索史上最大一次模型升级；Gemini Notebook 可把资料转成可交互网站。
+· 英伟达 Q3 营收 1160 亿美元同比翻倍、超预期 1090 亿，数据中心占 93%；FT 指出它不再披露新加坡销售额。
+· Anthropic 本周定价，CNBC 称可能落在 70–78 美元上沿或更高；上市后 Amazon 与 Google 合计持股近 30%，均无投票权。
+· 微软 Ignite 发七款模型主打性价比：编码款达 GPT-6.1 Sol 98% 性能、价格四成；对上 Opus 5.5 达 96% 性能、价格 5%。
+
+【本期条目】
+1. GPT-6.2 两款模型 — Astra 主打最难任务、Sol 主打日常，接口降价 20%，网安能力比前代高 22 分
+2. Google 换搜索引擎 — Gemini 4 Hydrogen 全球上线 Search，Gemini Notebook 转交互网站，AI Studio 支持建安卓 App
+3. 账本与股权 — 英伟达季报翻倍、停披露新加坡；Anthropic IPO 本周定价，Amazon 与 Google 持股近三成；微软七款模型打性价比
+4. 安全线 — NSA 机密网络宕机、Java4Shell 漏洞、Waymo 撤出全美高速、FEMA 称部分中断是例行测试
+5. 工具与实测 — Claude Code Mode、Copilot Fusion Max 成本低 88%、SGLang 95% PR 由 agent 写、联合计费、Grok 机器人 90 分钟电话
+6. 判断 — Vercel CEO：用户从人变成 agent，评测决定工程；Box CEO：token 支出没有天花板；网络安全是 2027 最好生意
+
+本期音频为 AI 生成。
